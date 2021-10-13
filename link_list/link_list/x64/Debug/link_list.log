@@ -1,0 +1,17 @@
+﻿  link_list.c
+E:\src\DSA\Battle_DS\link_list\link_list.c(160,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\src\DSA\Battle_DS\link_list\link_list.c(177,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  test.c
+E:\src\DSA\Battle_DS\link_list\test.c(10,17): warning C4013: “InitList”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(11,60): warning C4013: “ListLength”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(13,23): warning C4013: “ListInsert”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(15,17): warning C4013: “ListTraverse”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(18,18): warning C4013: “ListEmpty”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(21,18): warning C4013: “ClearList”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(38,12): warning C4013: “GetElem”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(42,23): warning C4013: “LocateElem”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(53,23): warning C4013: “ListDelete”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(71,19): warning C4013: “CreateListHead”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\link_list\test.c(77,19): warning C4013: “CreateListTail”未定义；假设外部返回 int
+  正在生成代码...
+  link_list.vcxproj -> E:\src\DSA\Battle_DS\Battle_DS\x64\Debug\link_list.exe

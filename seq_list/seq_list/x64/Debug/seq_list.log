@@ -1,0 +1,14 @@
+﻿  seq_list.c
+  test.c
+E:\src\DSA\Battle_DS\seq_list\test.c(12,17): warning C4013: “InitList”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\seq_list\test.c(15,23): warning C4013: “ListInsert”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\seq_list\test.c(17,17): warning C4013: “ListTraverse”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\seq_list\test.c(20,18): warning C4013: “ListEmpty”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\seq_list\test.c(23,18): warning C4013: “ClearList”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\seq_list\test.c(40,12): warning C4013: “GetElem”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\seq_list\test.c(44,23): warning C4013: “LocateElem”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\seq_list\test.c(52,19): warning C4013: “ListLength”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\seq_list\test.c(55,23): warning C4013: “ListDelete”未定义；假设外部返回 int
+E:\src\DSA\Battle_DS\seq_list\test.c(76,11): warning C4013: “unionL”未定义；假设外部返回 int
+  正在生成代码...
+  seq_list.vcxproj -> E:\src\DSA\Battle_DS\Battle_DS\x64\Debug\seq_list.exe
